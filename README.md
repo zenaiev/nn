@@ -20,5 +20,5 @@ https://cernbox.cern.ch/s/UmbXF1XxVrT4whQ
 Потрібна лише директорія `MERGED/ntuples-mc/TTJets_TuneZ2_7TeV-madgraph-tauola` (1 ГБ). 
 Після завантаження директорія `ntuples-mc/TTJets_TuneZ2_7TeV-madgraph-tauola` (чи посилання на неї) має бути в тій директорії, звідки запускається скрипт.
 ```
-python nn3d.py
+python nn3dtt.py
 ```
